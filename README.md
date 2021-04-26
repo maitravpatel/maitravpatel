@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maitravpatel
-- 👀 I’m interested in Program Development and Database Management
+- 👀 I’m interested in Software Development and Database Management
 - 🌱 I’m currently learning Computer Programming at Georgian College
 - 📫 How to reach me ? You can email me via maitravijaypatel@gmail.com
 
